@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/gcdeveloper/go-hello-world:master-841f0be
+        image: gcr.io/gcdeveloper/go-hello-world:master-c9d7ae0
         ports:
         - containerPort: 8080
